@@ -1,4 +1,4 @@
-def #greeting
+def greeting
   puts "Hello"
 end
-#greeting
+greeting
